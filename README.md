@@ -27,13 +27,11 @@ Developing an interpretable framework for discovering causal relationships in mu
 
 ---
 
-## 📚 Publications & Awards
-
 ### Publications
 
 - **Mishra, S., Datar, M., Pitchaimanickam, B.**  
   *Genetic and Epigenetic-Based Hypoglycemia Prediction for Personalized Diabetes Management Using Machine Learning.*  
-  **CRC Press, 2026.** Book Chapter.
+  **CRC Press, 2026.** [DOI](https://doi.org/10.1201/9781003773801)
 
 - *Causal Pathways Linking Cholesterol Variability to Dementia Onset: A Causal Inference Approach.*  
   **Accepted, IEEE ICCCNT 2025, IIT Indore, India.** Proceedings forthcoming.
@@ -41,8 +39,7 @@ Developing an interpretable framework for discovering causal relationships in mu
 ### 🏆 Award
 
 - **Best Paper Award — NCICIS 2025**  
-  Awarded for the research on **Genetic and Epigenetic-Based Hypoglycemia Prediction for Personalized Diabetes Management Using Machine Learning**.
-
+  Awarded for the hypoglycemia prediction research.
 ---
 
 ## ⭐ Featured Projects
